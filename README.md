@@ -16,12 +16,12 @@ O projeto Ecoleta é um marketplace de coleta de resíduos. Projeto criado na se
 
 ### :rocket: Tecnologias utilizadas
 
-* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Express](https://expressjs.com/pt-br/)
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [JavaScript](https://www.javascript.com/)
 * [Nodejs](https://nodejs.org/en/)
 * [NPM](https://www.npmjs.com/)
+* [Express](https://expressjs.com/pt-br/)
 * [Nunjucks](https://mozilla.github.io/nunjucks/)
 * [Sqlite](https://www.sqlite.org/index.html)
 
